@@ -28,12 +28,14 @@ npm install
 # Inicie o projeto
 npx expo start
 ```
+---
 # Rodando no dispositivo:
 
 Instale o app Expo Go na App Store ou Google Play
 Escaneie o QR Code exibido no terminal
 O app abrirá automaticamente
 ---
+
 ## Descrição das telas:
 
 Home:	Apresentação, destaque de pets, dicas de cuidados
