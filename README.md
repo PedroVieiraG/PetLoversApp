@@ -12,10 +12,12 @@ O app permite procurar pets disponíveis para adoção, salvar favoritos localme
 ---
 # Como Rodar o Projeto
 Pré-requisitos:
-Node.js 18+
-npm ou yarn
-Expo CLI (`npm install -g expo-cli`)
-Expo Go no celular (iOS ou Android) ou emulador configurado
+
+1. Node.js 18+
+2. npm ou yarn
+3. Expo CLI (`npm install -g expo-cli`)
+4. Expo Go no celular (iOS ou Android) ou emulador configurado
+
 Instalação
 ```bash
 # Clone o repositório
