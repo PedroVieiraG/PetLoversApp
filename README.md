@@ -45,13 +45,11 @@ npx expo start
 ---
 ## Tecnologias Utilizadas
 
-| Tecnologia | Versão | Uso |
-| :--- | :--- | :--- |
-| **React Native** | 0.73 | Framework mobile |
-| **Expo** | ~50.0 | Toolchain e build |
-| **React Navigation** | ^6.x | Navegação entre telas |
-| **AsyncStorage** | 1.21 | Favoritos persistidos localmente |
-| **@expo/vector-icons** | ^14 | Ícones Ionicons |
+| Tecnologia | Uso |
+| :--- | :--- |
+| **React Native** | Framework mobile |
+| **Expo** | Toolchain e build |
+| **React Navigation** | Navegação entre telas |
 ---
 🗂️ Estrutura do Projeto
 ```
