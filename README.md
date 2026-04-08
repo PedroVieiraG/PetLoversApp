@@ -1,9 +1,14 @@
-PetLovers — App de Adoção de Pets
+# PetLovers — App de Adoção de Pets
+
 > Conectando animais que precisam de um lar com famílias amorosas!
+
 ---
-Sobre o Projeto
-O PetLovers é um aplicativo mobile desenvolvido com React Native + Expo que tem como missão facilitar o processo de adoção responsável de animais. O app permite procurar pets disponíveis para adoção, salvar favoritos localmente e solicitar a adoção diretamente pelo aplicativo.
-Criado para fins acadêmicos
+
+## 📝 Sobre o Projeto
+O **PetLovers** é um aplicativo mobile desenvolvido com **React Native + Expo** que tem como missão facilitar o processo de adoção responsável de animais. 
+
+O app permite procurar pets disponíveis para adoção, salvar favoritos localmente e solicitar a adoção diretamente pelo aplicativo. Projeto criado exclusivamente para fins acadêmicos.
+
 ---
 Como Rodar o Projeto
 Pré-requisitos
@@ -23,7 +28,8 @@ npm install
 # Inicie o projeto
 npx expo start
 ```
-Rodando no dispositivo:
+# Rodando no dispositivo:
+
 Instale o app Expo Go na App Store ou Google Play
 Escaneie o QR Code exibido no terminal
 O app abrirá automaticamente
